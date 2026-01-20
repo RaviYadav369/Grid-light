@@ -40,7 +40,7 @@ const GridLights = ({n = 5}) => {
     }
     setArr(matrix)
   fetch()
-  }, [])
+  }, [n])
   return (
     <div style={{ display: 'flex', alignItems: 'center', flexDirection: 'column' }}>
       
