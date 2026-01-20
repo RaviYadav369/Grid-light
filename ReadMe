@@ -1,0 +1,8 @@
+Rules :
+<ul>
+<li>clicked cell</li>
+<li>The top neighbor (if it exists)</li>
+<li>The bottom neighbor (if it exists)</li>
+<li>The left neighbor (if it exists)</li>
+<li>The right neighbor (if it exists)</li>
+</ul>
